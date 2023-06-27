@@ -22,7 +22,8 @@ const Footer = () => {
                     <li className="menuItem">FAQ</li>
                 </ul>
                 <div className="infoText">
-                    Discover a world of cinematic wonders with our movie catalogue app. From timeless classics to the latest blockbusters, we've got your film cravings covered. Browse, search, and curate your own personal watchlist effortlessly. Lights, camera, action! Start your movie adventure today.
+                    Thank you for using our movie catalogue web app! We appreciate your support in making our platform a success. Your passion for films inspires us to continue providing an exceptional user experience. We hope our app has enhanced your movie-watching journey and brought you joy and entertainment. We value your feedback and look forward to serving you with more exciting features and an ever-growing collection of movies. 
+                    <p>Thank you once again!</p>
                 </div>
                 <div className="socialIcons">
                     <span className="icon">
